@@ -1,0 +1,19 @@
+{
+  "name": "worklog",
+  "version": "0.0.0",
+  "authors": [
+    "Keisuke OGAKI <keisuke_ogaki@dwango.co.jp>"
+  ],
+  "description": "消化したタスクを表示",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.schedule" : "https://github.com/ateliee/jquery.schedule.git"
+  }
+}
